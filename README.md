@@ -11,4 +11,7 @@ git clone or download
 npm i && npm start for both client and server to start the app
 
 ```
-
+#### Features to add
+*Better UI
+*Error Handling
+*Trying with different Packages
